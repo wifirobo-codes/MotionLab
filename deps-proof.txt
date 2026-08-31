@@ -1,0 +1,4 @@
+Shipped implementation: index.html
+Third-party runtime dependencies: none
+External runtime services: none
+Package installation: not required
