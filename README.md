@@ -1,4 +1,4 @@
-# MotionLab Zero-Dependency
+# MotionLab Zero-Dependency Hackathon
 
 MotionLab is a single-file, browser-based motion editor. Open `index.html` in a current browser—there is no install, server, package manifest, or external asset.
 
